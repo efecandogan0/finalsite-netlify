@@ -1,0 +1,142 @@
+[
+    {
+        "kategori": "Fotoğraf Makinesi",
+        "kdv": 0.085
+    },
+    {
+        "kategori": "Ev Eğlence Sistemi",
+        "kdv": 0.1
+    },
+    {
+        "kategori": "Cep Telefonu",
+        "kdv": 0.08
+    },
+    {
+        "kategori": "Giyim",
+        "kdv": 0.15
+    },
+    {
+        "kategori": "Bilgisayar",
+        "kdv": 0.06
+    },
+    {
+        "kategori": "Elektronik",
+        "kdv": 0.06
+    },
+    {
+        "kategori": "Elektronik Aksesuarlar",
+        "kdv": 0.11
+    },
+    {
+        "kategori": "Kişisel Bakım Cihazları",
+        "kdv": 0.136
+    },
+    {
+        "kategori": "Yapı Market",
+        "kdv": 0.127
+    },
+    {
+        "kategori": "Mutfak Eşyaları ve Dekorasyon",
+        "kdv": 0.15
+    },
+    {
+        "kategori": "Mobilya",
+        "kdv": 0.145
+    },
+    {
+        "kategori": "Mutfak (Küçük Ev Aletleri)",
+        "kdv": 0.11
+    },
+    {
+        "kategori": "Beyaz Eşyalar",
+        "kdv": 0.07
+    },
+    {
+        "kategori": "Müzik Aletleri",
+        "kdv": 0.1
+    },
+    {
+        "kategori": "Oyuncaklar ve Oyunlar",
+        "kdv": 0.13
+    },
+    {
+        "kategori": "Kitaplar",
+        "kdv": 0.102
+    },
+    {
+        "kategori": "Bebek (Giyim hariç)",
+        "kdv": 0.115
+    },
+    {
+        "kategori": "Ofis Ürünleri",
+        "kdv": 0.12
+    },
+    {
+        "kategori": "Spor",
+        "kdv": 0.1
+    },
+    {
+        "kategori": "Ayakkabılar, Kol Çantaları ve Ayakkabı Aksesuarları",
+        "kdv": 0.15
+    },
+    {
+        "kategori": "Kol Saatleri",
+        "kdv": 0.15
+    },
+    {
+        "kategori": "Bavullar ve Seyahat Aksesuarları",
+        "kdv": 0.15
+    },
+    {
+        "kategori": "Kişisel Bakım ve Kozmetik (toplam satış fiyatı 500 TL veya daha düşükse)",
+        "kdv": 0.09
+    },
+    {
+        "kategori": "Kişisel Bakım ve Kozmetik (toplam satış fiyatı 500 TL'den yüksekse)",
+        "kdv": 0.14
+    },
+    {
+        "kategori": "Sağlık ve Kişisel Bakım",
+        "kdv": 0.11
+    },
+    {
+        "kategori": "Gıda Ürünleri (toplam satış fiyatı 500 TL veya daha düşükse)",
+        "kdv": 0.09
+    },
+    {
+        "kategori": "Gıda Ürünleri (toplam satış fiyatı 500 TL'den yüksekse)",
+        "kdv": 0.13
+    },
+    {
+        "kategori": "Video Oyunu Konsolları",
+        "kdv": 0.085
+    },
+    {
+        "kategori": "Video Oyunları",
+        "kdv": 0.1
+    },
+    {
+        "kategori": "Otomotiv ve Motosiklet",
+        "kdv": 0.07
+    },
+    {
+        "kategori": "Takı (toplam satış fiyatı 900 TL veya daha düşükse)",
+        "kdv": 0.2
+    },
+    {
+        "kategori": "Takı (toplam satış fiyatı 900 TL'den yüksekse)",
+        "kdv": 0.03
+    },
+    {
+        "kategori": "Evcil Hayvan Ürünleri",
+        "kdv": 0.127
+    },
+    {
+        "kategori": "Çim ve Bahçe",
+        "kdv": 0.14
+    },
+    {
+        "kategori": "Diğer Her Şey",
+        "kdv": 0.1
+    }
+]

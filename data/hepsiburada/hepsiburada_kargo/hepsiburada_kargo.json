@@ -1,0 +1,3780 @@
+{
+    "hepsiJET": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 74.44
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 74.44
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 74.44
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 87.84
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 93.65
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 102.76
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 112.7
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 124.31
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 137.57
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 145.86
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 152.48
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 157.45
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 165.74
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 174.04
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 179.0
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 180.66
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 190.61
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 200.56
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 210.49
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 218.78
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 228.73
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 238.67
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 246.96
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 255.25
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 265.19
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 273.48
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 283.43
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 291.71
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 300.0
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 308.28
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 318.23
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 329.65
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 337.75
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 348.19
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 356.3
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 365.51
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 375.83
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 386.88
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 393.02
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 399.17
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 405.31
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 417.59
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 429.88
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 442.15
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 447.06
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 449.68
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 463.64
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 476.66
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 481.94
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 494.72
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 500.99
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 510.94
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 515.84
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 527.39
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 534.26
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 546.55
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 556.38
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 563.75
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 569.88
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 577.26
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 583.39
+        }
+    ],
+    "Aras\nKargo": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 80.15
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 80.15
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 88.18
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 96.34
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 106.26
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 115.96
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 123.74
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 131.54
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 139.32
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 147.12
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 154.92
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 161.16
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 167.44
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 173.68
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 179.93
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 186.19
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 195.92
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 205.63
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 215.33
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 225.05
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 234.78
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 243.84
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 252.88
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 261.92
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 270.97
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 280.02
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 288.84
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 297.66
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 306.5
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 315.3
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 324.13
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 333.1
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 342.07
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 351.04
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 360.01
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 368.98
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 377.95
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 386.92
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 395.88
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 404.86
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 413.82
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 422.8
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 431.76
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 440.74
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 449.7
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 458.68
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 467.64
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 476.6
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 485.58
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 494.54
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 503.52
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 512.48
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 521.46
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 530.42
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 539.4
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 548.36
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 557.33
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 566.3
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 575.27
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 584.24
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 593.21
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 602.18
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 611.15
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 620.12
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 629.09
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 638.05
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 647.03
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 655.99
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 664.97
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 673.93
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 682.91
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 691.87
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 700.85
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 709.81
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 718.78
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 727.75
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 736.72
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 745.69
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 754.66
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 763.63
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 772.6
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 781.57
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 790.54
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 799.5
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 808.48
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 817.44
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 826.42
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 835.38
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 844.36
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 853.32
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 862.28
+        },
+        {
+            "desi": 91,
+            "fiyat_kdv_dahil": 871.26
+        },
+        {
+            "desi": 92,
+            "fiyat_kdv_dahil": 880.22
+        },
+        {
+            "desi": 93,
+            "fiyat_kdv_dahil": 889.2
+        },
+        {
+            "desi": 94,
+            "fiyat_kdv_dahil": 898.16
+        },
+        {
+            "desi": 95,
+            "fiyat_kdv_dahil": 907.14
+        },
+        {
+            "desi": 96,
+            "fiyat_kdv_dahil": 916.1
+        },
+        {
+            "desi": 97,
+            "fiyat_kdv_dahil": 925.08
+        },
+        {
+            "desi": 98,
+            "fiyat_kdv_dahil": 934.04
+        },
+        {
+            "desi": 99,
+            "fiyat_kdv_dahil": 943.01
+        },
+        {
+            "desi": 100,
+            "fiyat_kdv_dahil": 951.98
+        },
+        {
+            "desi": 101,
+            "fiyat_kdv_dahil": 960.95
+        },
+        {
+            "desi": 102,
+            "fiyat_kdv_dahil": 969.92
+        },
+        {
+            "desi": 103,
+            "fiyat_kdv_dahil": 978.89
+        },
+        {
+            "desi": 104,
+            "fiyat_kdv_dahil": 987.86
+        },
+        {
+            "desi": 105,
+            "fiyat_kdv_dahil": 996.83
+        },
+        {
+            "desi": 106,
+            "fiyat_kdv_dahil": 1005.8
+        },
+        {
+            "desi": 107,
+            "fiyat_kdv_dahil": 1014.77
+        },
+        {
+            "desi": 108,
+            "fiyat_kdv_dahil": 1023.73
+        },
+        {
+            "desi": 109,
+            "fiyat_kdv_dahil": 1032.71
+        },
+        {
+            "desi": 110,
+            "fiyat_kdv_dahil": 1041.67
+        },
+        {
+            "desi": 111,
+            "fiyat_kdv_dahil": 1050.65
+        },
+        {
+            "desi": 112,
+            "fiyat_kdv_dahil": 1059.61
+        },
+        {
+            "desi": 113,
+            "fiyat_kdv_dahil": 1068.59
+        },
+        {
+            "desi": 114,
+            "fiyat_kdv_dahil": 1077.55
+        },
+        {
+            "desi": 115,
+            "fiyat_kdv_dahil": 1086.53
+        },
+        {
+            "desi": 116,
+            "fiyat_kdv_dahil": 1095.49
+        },
+        {
+            "desi": 117,
+            "fiyat_kdv_dahil": 1104.46
+        },
+        {
+            "desi": 118,
+            "fiyat_kdv_dahil": 1113.43
+        },
+        {
+            "desi": 119,
+            "fiyat_kdv_dahil": 1122.4
+        },
+        {
+            "desi": 120,
+            "fiyat_kdv_dahil": 1131.37
+        },
+        {
+            "desi": 121,
+            "fiyat_kdv_dahil": 1140.34
+        },
+        {
+            "desi": 122,
+            "fiyat_kdv_dahil": 1149.31
+        },
+        {
+            "desi": 123,
+            "fiyat_kdv_dahil": 1158.28
+        },
+        {
+            "desi": 124,
+            "fiyat_kdv_dahil": 1167.25
+        },
+        {
+            "desi": 125,
+            "fiyat_kdv_dahil": 1176.22
+        },
+        {
+            "desi": 126,
+            "fiyat_kdv_dahil": 1185.18
+        },
+        {
+            "desi": 127,
+            "fiyat_kdv_dahil": 1194.16
+        }
+    ],
+    "MNG\nKargo": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 88.79
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 88.79
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 88.79
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 95.99
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 109.79
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 119.99
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 133.19
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 140.39
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 149.99
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 158.39
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 165.59
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 173.99
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 183.59
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 193.19
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 203.99
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 213.59
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 243.59
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 256.79
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 273.59
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 295.19
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 310.79
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 320.39
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 328.79
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 349.19
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 369.59
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 389.99
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 410.39
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 430.79
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 451.19
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 471.59
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 491.99
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 521.98
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 551.96
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 581.95
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 611.94
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 641.93
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 671.92
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 701.9
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 731.89
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 761.88
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 791.87
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 821.86
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 851.84
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 881.83
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 911.82
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 941.81
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 971.8
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 1001.78
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 1031.77
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 1061.76
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 1091.75
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 1121.74
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 1151.72
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 1181.71
+        }
+    ],
+    "Yurtiçi\nKargo": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 109.64
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 109.64
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 112.43
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 119.53
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 121.92
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 136.14
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 140.9
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 159.12
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 165.9
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 175.76
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 183.64
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 201.47
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 214.92
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 223.27
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 240.68
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 255.71
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 262.81
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 277.86
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 288.18
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 296.47
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 305.62
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 320.66
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 335.7
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 341.99
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 349.98
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 376.82
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 416.84
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 431.86
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 443.77
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 448.5
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 465.13
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 478.22
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 491.66
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 504.73
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 517.75
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 531.22
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 544.72
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 557.76
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 570.82
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 584.27
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 597.74
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 610.79
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 623.9
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 637.34
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 650.39
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 663.85
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 676.91
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 690.35
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 703.48
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 716.89
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 729.95
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 743.39
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 756.49
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 769.93
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 783.02
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 796.48
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 809.52
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 822.59
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 836.04
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 849.47
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 862.6
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 875.65
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 889.08
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 902.57
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 915.62
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 928.64
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 942.16
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 955.2
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 968.68
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 981.73
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 995.16
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 1008.2
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 1021.69
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 1034.77
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 1048.25
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 1061.28
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 1074.74
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 1087.79
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 1101.23
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 1114.36
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 1127.81
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 1140.86
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 1154.3
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 1167.38
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 1180.4
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 1193.94
+        }
+    ],
+    "Sürat\nKargo": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 83.29
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 83.29
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 83.29
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 94.02
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 102.46
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 108.0
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 124.85
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 133.28
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 141.71
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 150.17
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 158.59
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 169.28
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 176.4
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 183.48
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 190.56
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 197.56
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 204.95
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 215.76
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 226.64
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 237.5
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 248.34
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 259.54
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 269.52
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 279.4
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 289.4
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 299.34
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 308.93
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 318.54
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 328.12
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 337.73
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 347.34
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 415.51
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 427.6
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 439.69
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 451.76
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 463.88
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 475.96
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 488.03
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 500.15
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 512.22
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 530.02
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 542.22
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 554.42
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 566.65
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 578.87
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 591.11
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 603.31
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 615.53
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 627.77
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 639.97
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 652.21
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 664.43
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 676.63
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 688.86
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 701.06
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 713.3
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 725.52
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 737.72
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 749.96
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 762.18
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 774.42
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 786.62
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 798.84
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 811.06
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 823.27
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 835.51
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 847.72
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 859.93
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 872.17
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 884.38
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 896.63
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 908.83
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 921.04
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 933.26
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 945.47
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 957.72
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 969.92
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 982.13
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 994.38
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 1006.58
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 1018.82
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 1031.04
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 1043.24
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 1055.47
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 1067.68
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 1079.92
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 1092.13
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 1104.34
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 1116.58
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 1128.79
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 1141.03
+        },
+        {
+            "desi": 91,
+            "fiyat_kdv_dahil": 1153.24
+        },
+        {
+            "desi": 92,
+            "fiyat_kdv_dahil": 1165.45
+        },
+        {
+            "desi": 93,
+            "fiyat_kdv_dahil": 1177.67
+        },
+        {
+            "desi": 94,
+            "fiyat_kdv_dahil": 1189.88
+        }
+    ],
+    "Kolay\nGelsin": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 85.0
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 85.0
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 86.65
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 96.17
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 105.01
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 114.96
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 123.8
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 131.9
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 140.14
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 155.86
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 157.21
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 164.27
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 170.47
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 177.97
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 184.24
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 191.9
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 208.18
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 219.59
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 230.47
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 241.22
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 252.14
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 262.96
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 273.89
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 284.82
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 295.63
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 306.56
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 317.36
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 328.3
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 339.23
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 350.04
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 360.97
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 445.72
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 458.98
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 472.25
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 485.63
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 498.9
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 512.16
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 525.55
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 538.81
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 552.07
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 567.43
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 589.66
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 613.86
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 638.05
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 662.24
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 686.44
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 710.64
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 734.83
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 759.02
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 783.23
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 807.54
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 831.86
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 856.18
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 880.5
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 904.81
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 929.14
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 953.45
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 977.77
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 1002.08
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 1026.41
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 1050.72
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 1075.04
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 1099.36
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 1123.68
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 1148.0
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 1172.32
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 1196.64
+        }
+    ],
+    "PTT\nKargo": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 83.51
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 83.51
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 102.3
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 102.3
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 106.48
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 112.74
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 119.0
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 131.53
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 144.06
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 162.85
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 171.2
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 179.56
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 187.91
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 196.25
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 204.6
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 212.95
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 221.3
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 229.66
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 238.01
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 246.36
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 254.71
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 260.98
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 269.33
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 277.68
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 286.03
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 294.38
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 302.74
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 311.09
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 319.43
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 327.78
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 640.25
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 655.69
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 671.12
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 686.57
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 702.0
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 717.43
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 732.88
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 748.31
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 763.75
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 779.18
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 794.63
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 810.06
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 825.5
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 840.94
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 856.38
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 871.81
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 887.26
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 902.69
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 918.12
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 933.56
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 949.0
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 964.44
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 979.87
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 995.32
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 1010.75
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 1026.19
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 1041.62
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 1057.07
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 1072.5
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 1087.93
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 1103.38
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 1118.81
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 1134.25
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 1149.68
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 1165.13
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 1180.56
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 1196.0
+        }
+    ],
+    "hepsiJET\nXL": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 350.84
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 362.53
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 374.23
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 385.93
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 397.62
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 409.32
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 421.01
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 432.71
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 444.4
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 456.1
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 467.78
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 479.48
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 491.18
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 502.87
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 514.57
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 526.26
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 537.96
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 549.65
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 561.35
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 573.05
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 584.74
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 596.44
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 608.12
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 619.82
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 631.51
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 643.21
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 654.9
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 666.6
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 678.3
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 689.99
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 701.69
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 713.38
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 725.08
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 736.76
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 748.46
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 760.16
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 771.85
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 783.55
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 795.24
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 806.94
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 818.63
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 830.33
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 842.02
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 853.72
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 865.42
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 877.1
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 888.8
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 900.49
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 912.19
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 923.88
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 935.58
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 947.28
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 958.97
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 970.67
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 982.36
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 994.06
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 1005.74
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 1017.44
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 1029.13
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 1040.83
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 1052.53
+        },
+        {
+            "desi": 91,
+            "fiyat_kdv_dahil": 1064.22
+        },
+        {
+            "desi": 92,
+            "fiyat_kdv_dahil": 1075.92
+        },
+        {
+            "desi": 93,
+            "fiyat_kdv_dahil": 1087.61
+        },
+        {
+            "desi": 94,
+            "fiyat_kdv_dahil": 1099.31
+        },
+        {
+            "desi": 95,
+            "fiyat_kdv_dahil": 1111.0
+        },
+        {
+            "desi": 96,
+            "fiyat_kdv_dahil": 1122.7
+        },
+        {
+            "desi": 97,
+            "fiyat_kdv_dahil": 1134.4
+        },
+        {
+            "desi": 98,
+            "fiyat_kdv_dahil": 1146.08
+        },
+        {
+            "desi": 99,
+            "fiyat_kdv_dahil": 1157.78
+        },
+        {
+            "desi": 100,
+            "fiyat_kdv_dahil": 1169.47
+        },
+        {
+            "desi": 101,
+            "fiyat_kdv_dahil": 1181.17
+        },
+        {
+            "desi": 102,
+            "fiyat_kdv_dahil": 1192.86
+        }
+    ],
+    "Horoz\nLojistik": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 376.46
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 389.02
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 401.57
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 414.12
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 426.66
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 439.21
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 451.76
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 464.32
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 476.86
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 489.41
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 501.96
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 514.51
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 527.05
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 539.6
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 552.16
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 564.71
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 577.25
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 589.8
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 602.35
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 614.9
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 627.44
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 640.0
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 652.55
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 665.1
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 677.64
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 690.19
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 702.74
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 715.3
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 727.84
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 740.39
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 752.94
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 765.48
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 778.03
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 790.58
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 803.14
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 815.68
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 828.23
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 840.78
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 853.33
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 865.87
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 878.42
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 890.98
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 903.53
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 916.07
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 928.62
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 941.17
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 953.72
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 966.26
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 978.82
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 991.37
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 1003.92
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 1016.46
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 1029.01
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 1041.56
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 1054.12
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 1066.66
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 1079.21
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 1091.76
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 1104.31
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 1116.85
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 1129.4
+        },
+        {
+            "desi": 91,
+            "fiyat_kdv_dahil": 1141.96
+        },
+        {
+            "desi": 92,
+            "fiyat_kdv_dahil": 1154.51
+        },
+        {
+            "desi": 93,
+            "fiyat_kdv_dahil": 1167.05
+        },
+        {
+            "desi": 94,
+            "fiyat_kdv_dahil": 1179.6
+        },
+        {
+            "desi": 95,
+            "fiyat_kdv_dahil": 1192.15
+        }
+    ],
+    "Ceva\nLojistik": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 565.68
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 571.85
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 578.16
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 584.48
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 590.96
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 597.4
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 604.06
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 610.63
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 617.32
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 624.17
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 631.08
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 637.3
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 643.78
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 650.26
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 656.64
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 663.31
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 669.85
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 676.64
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 683.35
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 690.22
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 697.12
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 737.4
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 744.74
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 752.17
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 759.7
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 766.9
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 770.65
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 773.06
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 775.37
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 776.88
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 778.56
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 807.26
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 820.46
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 833.72
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 846.92
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 860.18
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 873.38
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 886.64
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 899.86
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 913.1
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 926.32
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 939.56
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 952.78
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 966.02
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 979.32
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 992.48
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 1005.79
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 1018.96
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 1032.25
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 1045.42
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 1058.71
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 1071.88
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 1085.17
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 1098.34
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 1111.63
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 1124.8
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 1138.09
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 1151.26
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 1164.55
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 1177.81
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 1191.02
+        }
+    ],
+    "Borusan\nLojistik": [
+        {
+            "desi": 0,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 1,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 2,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 3,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 4,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 5,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 6,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 7,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 8,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 9,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 10,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 11,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 12,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 13,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 14,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 15,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 16,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 17,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 18,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 19,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 20,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 21,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 22,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 23,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 24,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 25,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 26,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 27,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 28,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 29,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 30,
+            "fiyat_kdv_dahil": 398.63
+        },
+        {
+            "desi": 31,
+            "fiyat_kdv_dahil": 411.91
+        },
+        {
+            "desi": 32,
+            "fiyat_kdv_dahil": 425.2
+        },
+        {
+            "desi": 33,
+            "fiyat_kdv_dahil": 438.48
+        },
+        {
+            "desi": 34,
+            "fiyat_kdv_dahil": 451.78
+        },
+        {
+            "desi": 35,
+            "fiyat_kdv_dahil": 465.06
+        },
+        {
+            "desi": 36,
+            "fiyat_kdv_dahil": 478.34
+        },
+        {
+            "desi": 37,
+            "fiyat_kdv_dahil": 491.64
+        },
+        {
+            "desi": 38,
+            "fiyat_kdv_dahil": 504.92
+        },
+        {
+            "desi": 39,
+            "fiyat_kdv_dahil": 518.21
+        },
+        {
+            "desi": 40,
+            "fiyat_kdv_dahil": 531.49
+        },
+        {
+            "desi": 41,
+            "fiyat_kdv_dahil": 544.79
+        },
+        {
+            "desi": 42,
+            "fiyat_kdv_dahil": 558.07
+        },
+        {
+            "desi": 43,
+            "fiyat_kdv_dahil": 571.36
+        },
+        {
+            "desi": 44,
+            "fiyat_kdv_dahil": 584.65
+        },
+        {
+            "desi": 45,
+            "fiyat_kdv_dahil": 597.94
+        },
+        {
+            "desi": 46,
+            "fiyat_kdv_dahil": 611.22
+        },
+        {
+            "desi": 47,
+            "fiyat_kdv_dahil": 624.5
+        },
+        {
+            "desi": 48,
+            "fiyat_kdv_dahil": 637.8
+        },
+        {
+            "desi": 49,
+            "fiyat_kdv_dahil": 651.08
+        },
+        {
+            "desi": 50,
+            "fiyat_kdv_dahil": 664.37
+        },
+        {
+            "desi": 51,
+            "fiyat_kdv_dahil": 677.66
+        },
+        {
+            "desi": 52,
+            "fiyat_kdv_dahil": 690.95
+        },
+        {
+            "desi": 53,
+            "fiyat_kdv_dahil": 704.23
+        },
+        {
+            "desi": 54,
+            "fiyat_kdv_dahil": 717.52
+        },
+        {
+            "desi": 55,
+            "fiyat_kdv_dahil": 730.81
+        },
+        {
+            "desi": 56,
+            "fiyat_kdv_dahil": 744.1
+        },
+        {
+            "desi": 57,
+            "fiyat_kdv_dahil": 757.38
+        },
+        {
+            "desi": 58,
+            "fiyat_kdv_dahil": 770.68
+        },
+        {
+            "desi": 59,
+            "fiyat_kdv_dahil": 783.96
+        },
+        {
+            "desi": 60,
+            "fiyat_kdv_dahil": 797.24
+        },
+        {
+            "desi": 61,
+            "fiyat_kdv_dahil": 810.54
+        },
+        {
+            "desi": 62,
+            "fiyat_kdv_dahil": 823.82
+        },
+        {
+            "desi": 63,
+            "fiyat_kdv_dahil": 837.11
+        },
+        {
+            "desi": 64,
+            "fiyat_kdv_dahil": 850.39
+        },
+        {
+            "desi": 65,
+            "fiyat_kdv_dahil": 863.69
+        },
+        {
+            "desi": 66,
+            "fiyat_kdv_dahil": 876.97
+        },
+        {
+            "desi": 67,
+            "fiyat_kdv_dahil": 890.26
+        },
+        {
+            "desi": 68,
+            "fiyat_kdv_dahil": 903.55
+        },
+        {
+            "desi": 69,
+            "fiyat_kdv_dahil": 916.84
+        },
+        {
+            "desi": 70,
+            "fiyat_kdv_dahil": 930.12
+        },
+        {
+            "desi": 71,
+            "fiyat_kdv_dahil": 943.4
+        },
+        {
+            "desi": 72,
+            "fiyat_kdv_dahil": 956.7
+        },
+        {
+            "desi": 73,
+            "fiyat_kdv_dahil": 969.98
+        },
+        {
+            "desi": 74,
+            "fiyat_kdv_dahil": 983.27
+        },
+        {
+            "desi": 75,
+            "fiyat_kdv_dahil": 996.56
+        },
+        {
+            "desi": 76,
+            "fiyat_kdv_dahil": 1009.85
+        },
+        {
+            "desi": 77,
+            "fiyat_kdv_dahil": 1023.13
+        },
+        {
+            "desi": 78,
+            "fiyat_kdv_dahil": 1036.42
+        },
+        {
+            "desi": 79,
+            "fiyat_kdv_dahil": 1049.71
+        },
+        {
+            "desi": 80,
+            "fiyat_kdv_dahil": 1063.0
+        },
+        {
+            "desi": 81,
+            "fiyat_kdv_dahil": 1076.28
+        },
+        {
+            "desi": 82,
+            "fiyat_kdv_dahil": 1089.58
+        },
+        {
+            "desi": 83,
+            "fiyat_kdv_dahil": 1102.86
+        },
+        {
+            "desi": 84,
+            "fiyat_kdv_dahil": 1116.14
+        },
+        {
+            "desi": 85,
+            "fiyat_kdv_dahil": 1129.43
+        },
+        {
+            "desi": 86,
+            "fiyat_kdv_dahil": 1142.72
+        },
+        {
+            "desi": 87,
+            "fiyat_kdv_dahil": 1156.01
+        },
+        {
+            "desi": 88,
+            "fiyat_kdv_dahil": 1169.29
+        },
+        {
+            "desi": 89,
+            "fiyat_kdv_dahil": 1182.59
+        },
+        {
+            "desi": 90,
+            "fiyat_kdv_dahil": 1195.87
+        }
+    ]
+}

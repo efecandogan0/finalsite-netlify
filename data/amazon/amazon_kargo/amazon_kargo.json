@@ -1,0 +1,212 @@
+[
+    {
+        "desi": 0.1,
+        "fiyatlar": [
+            {
+                "agirlik_kg": null,
+                "fiyat_kdv_dahil": 50.82
+            }
+        ]
+    },
+    {
+        "desi": 0.632,
+        "fiyatlar": [
+            {
+                "agirlik_kg": 0.1,
+                "fiyat_kdv_dahil": 50.82
+            },
+            {
+                "agirlik_kg": 0.25,
+                "fiyat_kdv_dahil": 51.31
+            },
+            {
+                "agirlik_kg": 0.5,
+                "fiyat_kdv_dahil": 52.06
+            }
+        ]
+    },
+    {
+        "desi": 1.265,
+        "fiyatlar": [
+            {
+                "agirlik_kg": 1.0,
+                "fiyat_kdv_dahil": 54.01
+            }
+        ]
+    },
+    {
+        "desi": 13.26,
+        "fiyatlar": [
+            {
+                "agirlik_kg": 0.25,
+                "fiyat_kdv_dahil": 55.88
+            },
+            {
+                "agirlik_kg": 0.5,
+                "fiyat_kdv_dahil": 57.78
+            },
+            {
+                "agirlik_kg": 1.0,
+                "fiyat_kdv_dahil": 58.6
+            },
+            {
+                "agirlik_kg": 1.5,
+                "fiyat_kdv_dahil": 58.94
+            },
+            {
+                "agirlik_kg": 2.0,
+                "fiyat_kdv_dahil": 59.76
+            },
+            {
+                "agirlik_kg": 3.0,
+                "fiyat_kdv_dahil": 68.35
+            },
+            {
+                "agirlik_kg": 4.0,
+                "fiyat_kdv_dahil": 73.4
+            },
+            {
+                "agirlik_kg": 5.0,
+                "fiyat_kdv_dahil": 77.22
+            },
+            {
+                "agirlik_kg": 6.0,
+                "fiyat_kdv_dahil": 82.04
+            },
+            {
+                "agirlik_kg": 7.0,
+                "fiyat_kdv_dahil": 86.9
+            },
+            {
+                "agirlik_kg": 8.0,
+                "fiyat_kdv_dahil": 96.56
+            },
+            {
+                "agirlik_kg": 9.0,
+                "fiyat_kdv_dahil": 106.25
+            },
+            {
+                "agirlik_kg": 10.0,
+                "fiyat_kdv_dahil": 113.63
+            },
+            {
+                "agirlik_kg": 11.0,
+                "fiyat_kdv_dahil": 120.07
+            },
+            {
+                "agirlik_kg": 12.0,
+                "fiyat_kdv_dahil": 124.75
+            }
+        ]
+    },
+    {
+        "desi": 43.025,
+        "fiyatlar": [
+            {
+                "agirlik_kg": 1.0,
+                "fiyat_kdv_dahil": 101.52
+            },
+            {
+                "agirlik_kg": 1.25,
+                "fiyat_kdv_dahil": 108.1
+            },
+            {
+                "agirlik_kg": 1.5,
+                "fiyat_kdv_dahil": 108.74
+            },
+            {
+                "agirlik_kg": 1.75,
+                "fiyat_kdv_dahil": 109.5
+            },
+            {
+                "agirlik_kg": 2.0,
+                "fiyat_kdv_dahil": 109.99
+            }
+        ]
+    },
+    {
+        "desi": 144.0,
+        "fiyatlar": [
+            {
+                "agirlik_kg": 1.0,
+                "fiyat_kdv_dahil": 122.06
+            },
+            {
+                "agirlik_kg": 2.0,
+                "fiyat_kdv_dahil": 129.52
+            },
+            {
+                "agirlik_kg": 3.0,
+                "fiyat_kdv_dahil": 129.79
+            },
+            {
+                "agirlik_kg": 4.0,
+                "fiyat_kdv_dahil": 131.32
+            },
+            {
+                "agirlik_kg": 5.0,
+                "fiyat_kdv_dahil": 130.7
+            },
+            {
+                "agirlik_kg": 6.0,
+                "fiyat_kdv_dahil": 129.18
+            },
+            {
+                "agirlik_kg": 7.0,
+                "fiyat_kdv_dahil": 133.69
+            },
+            {
+                "agirlik_kg": 8.0,
+                "fiyat_kdv_dahil": 139.18
+            },
+            {
+                "agirlik_kg": 9.0,
+                "fiyat_kdv_dahil": 148.15
+            },
+            {
+                "agirlik_kg": 10.0,
+                "fiyat_kdv_dahil": 151.72
+            },
+            {
+                "agirlik_kg": 15.0,
+                "fiyat_kdv_dahil": 168.61
+            },
+            {
+                "agirlik_kg": 20.0,
+                "fiyat_kdv_dahil": 190.04
+            },
+            {
+                "agirlik_kg": 25.0,
+                "fiyat_kdv_dahil": 204.2
+            },
+            {
+                "agirlik_kg": 30.0,
+                "fiyat_kdv_dahil": 238.93
+            },
+            {
+                "agirlik_kg": 5.0,
+                "fiyat_kdv_dahil": 196.43
+            },
+            {
+                "agirlik_kg": 10.0,
+                "fiyat_kdv_dahil": 225.12
+            },
+            {
+                "agirlik_kg": 15.0,
+                "fiyat_kdv_dahil": 289.09
+            },
+            {
+                "agirlik_kg": 20.0,
+                "fiyat_kdv_dahil": 305.06
+            },
+            {
+                "agirlik_kg": 25.0,
+                "fiyat_kdv_dahil": 321.8
+            },
+            {
+                "agirlik_kg": 30.0,
+                "fiyat_kdv_dahil": 352.01
+            }
+        ]
+    }
+]

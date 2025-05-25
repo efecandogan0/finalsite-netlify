@@ -1,0 +1,3535 @@
+[
+  {
+    "no":1,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Altın (İşlenmemiş)",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.09
+  },
+  {
+    "no":2,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Atkı & Bere & Eldiven",
+    "urun_grubu_detayi":[
+      "Atkı",
+      "Atkı & Bere & Eldiven Set",
+      "Bere",
+      "Boyunluk",
+      "Eldiven",
+      "Şal & Fular & Eşarp"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":3,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Atkı & Bere & Eldiven",
+    "urun_grubu_detayi":[
+      "Atkı",
+      "Atkı & Bere & Eldiven Set",
+      "Bere",
+      "Boyunluk",
+      "Eldiven",
+      "Eşarp",
+      "Şal & Fular &"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":4,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Diğer Aksesuar",
+    "urun_grubu_detayi":[
+      "Kemer",
+      "Kol Düğmesi",
+      "Kravat & Pantolon Askısı",
+      "Saç Aksesuarı",
+      "Şapka"
+    ],
+    "kdv":0.2237
+  },
+  {
+    "no":5,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Gözlük",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":6,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Mücevher",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":7,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Saat",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":8,
+    "ana_kategori":"Aksesuar",
+    "kategori":"Takı",
+    "urun_grubu_detayi":[
+      "Bijuteri Bileklik",
+      "Bijuteri Kolye",
+      "Choker",
+      "Gümüş Bileklik",
+      "Gümüş Kolye",
+      "Gümüş Küpe",
+      "Halhal&Ayak Aksesuarları",
+      "Çelik Bileklik",
+      "Çelik Kolye"
+    ],
+    "kdv":0.2237
+  },
+  {
+    "no":9,
+    "ana_kategori":"Ayakkabı & Çanta",
+    "kategori":"Ayakkabı",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2339
+  },
+  {
+    "no":10,
+    "ana_kategori":"Ayakkabı & Çanta",
+    "kategori":"Çanta",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":11,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bahçe & Balkon Isıtma"
+    ],
+    "kdv":0.215
+  },
+  {
+    "no":12,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bahçe Aydınlatması"
+    ],
+    "kdv":0.215
+  },
+  {
+    "no":13,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bahçe Dekorasyonu",
+      "Gübre",
+      "Kuzine ve Sobalar",
+      "Saksı",
+      "Tohumlar",
+      "Topraklar",
+      "Torf ve",
+      "Çitler",
+      "Şömine"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":14,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bahçe Makine Yağları"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":15,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bahçe Makineleri",
+      "Tırpanlar",
+      "Zincirli Ağaç Kesme Makinesi",
+      "Çapa Makineleri"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":16,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Bungalov ve Prefabrik Evler"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":17,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Çim Biçme Makineleri"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":18,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Dekoratif Ürünler"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":19,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Akülü Vidalama",
+      "El Aletleri",
+      "Elektrikli El Aletleri ve Aksesuarları",
+      "Manuel El Aletleri",
+      "Matkaplar"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":20,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Havuz Ürünleri"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":21,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Hayvancılık Makineleri"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":22,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Küçük El Aletleri"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":23,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Bahçe",
+    "urun_grubu_detayi":[
+      "Mangallar ve Aksesuarları"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":24,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Elektrikli El Aletleri",
+    "urun_grubu_detayi":[
+      "Akülü Vidalama",
+      "El Aletleri",
+      "Elektrikli El Aletleri ve Aksesuarları",
+      "Manuel El Aletleri",
+      "Matkaplar"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":25,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Elektrikli El Aletleri",
+    "urun_grubu_detayi":[
+      "Taşlamalar",
+      "Tilki Kuyruğu",
+      "Ölçüm Cihazları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":26,
+    "ana_kategori":"Bahçe & Elektrikli El Aletleri",
+    "kategori":"Enerji Sistemleri",
+    "urun_grubu_detayi":[
+      "Güneş Paneli ve Sistemleri",
+      "Jenaratör",
+      "Rüzgar Türbini"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":27,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Banyo Yapı Malzemeleri",
+    "urun_grubu_detayi":[
+      "Banyo Bataryası",
+      "Banyo Yapı Malzemeleri",
+      "Duş Sistemleri",
+      "Eviye",
+      "Lavabo",
+      "Lavabo Bataryası"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":28,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Banyo Yapı Malzemeleri",
+    "urun_grubu_detayi":[
+      "Klozet"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":29,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Banyo Yapı Malzemeleri",
+    "urun_grubu_detayi":[
+      "Su Arıtma"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":30,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Boya",
+    "urun_grubu_detayi":[
+      "Boya & Boya Malzemeleri"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":31,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Elektrik & Tesisat Malzemeleri",
+    "urun_grubu_detayi":[
+      "Ampul"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":32,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Elektrik & Tesisat Malzemeleri",
+    "urun_grubu_detayi":[
+      "Elektrik ve Aydınlatma"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":33,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Elektrik & Tesisat Malzemeleri",
+    "urun_grubu_detayi":[
+      "Güvenlik Ürünleri"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":34,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Hırdavat",
+    "urun_grubu_detayi":[
+      "Akülü Vidalama",
+      "El Aletleri",
+      "Elektrikli El Aletleri ve Aksesuarları",
+      "Manuel El Aletleri",
+      "Matkaplar"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":35,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Hırdavat",
+    "urun_grubu_detayi":[
+      "Hırdavat ve İnşaat Malzemeleri",
+      "Kutu Ambalaj Malzemeleri",
+      "Sinek Perdeleri",
+      "Yapıştırıcı ve Bantlar",
+      "İş Ayakkabısı&Çizmesi",
+      "İş Güvenliği Elbisesi"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":36,
+    "ana_kategori":"Banyo Yapı & Hırdavat",
+    "kategori":"Hırdavat",
+    "urun_grubu_detayi":[
+      "Isınma & Soğutma Sistemi",
+      "Oda Termostatı",
+      "Tavan Vantilatörü"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":37,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Banyo & Tuvalet",
+    "urun_grubu_detayi":[
+      "Bebek Banyo Aksesuarları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":38,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Banyo & Tuvalet",
+    "urun_grubu_detayi":[
+      "Bebek Küveti"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":39,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Banyo & Tuvalet",
+    "urun_grubu_detayi":[
+      "Klozet Adaptörü & Lazımlık"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":40,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Beslenme\/Emzirme",
+    "urun_grubu_detayi":[
+      "Alıştırma Bardakları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":41,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Beslenme\/Emzirme",
+    "urun_grubu_detayi":[
+      "Bebek Hediyelik",
+      "Beslenme Aksesuarları",
+      "Biberon Isıtıcı & Sterilizatör",
+      "Emzirme",
+      "Emzirme & Saklama Aksesuarları",
+      "Emzirme Yastığı",
+      "Mama Isıtıcı ve Hazırlayıcılar",
+      "Mama Önlüğü",
+      "Örtüsü"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":42,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Beslenme\/Emzirme",
+    "urun_grubu_detayi":[
+      "Biberon\/Emzik"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":43,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Beslenme\/Emzirme",
+    "urun_grubu_detayi":[
+      "Göğüs Pompaları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":44,
+    "ana_kategori":"Çocuk",
+    "kategori":"Bebek Odası ve Tekstili",
+    "urun_grubu_detayi":[
+      "Diğer Oda Aksesuarları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":45,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Ana Kucağı"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":46,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Arabada Güvenlik",
+      "Telsiz&Kamera&Dedektör"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":47,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Baston Puset",
+      "Bebek Araba",
+      "Mama Sandalyesi",
+      "Park Yatak \/ Oyun Parkı"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":48,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Bebek Bakım Çantası",
+      "Mama Sandalyesi Minderi",
+      "Yürüteç"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":49,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Bebek Salıncağı & Hoppala"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":50,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Portbebe\/Kanguru\/Sling",
+      "Çocuk Salıncak"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":51,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Güvenlik Kapısı"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":52,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Koruyucu Tekstil",
+      "Koruyucu ve Kilit"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":53,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Onarılmış Bebek Arabası & Puset",
+      "Onarılmış Oto Koltuğu ve Aksesuarları"
+    ],
+    "kdv":0.035
+  },
+  {
+    "no":54,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Oto Koltuğu"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":55,
+    "ana_kategori":"Çocuk",
+    "kategori":"Çocuk Gereçleri",
+    "urun_grubu_detayi":[
+      "Oto Koltuğu Aksesuarları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":56,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Ahşap Oyuncaklar"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":57,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Akülü Araçlar"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":58,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Bebek & Aktivite",
+      "Eğitici Oyuncaklar",
+      "Model Bebek",
+      "Oyuncakları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":59,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Çocuk Bisikleti"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":60,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Çocuk Kask ve Güvenlik Aksesuarları"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":61,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Çocuk Kaykay",
+      "Çocuk Pateni",
+      "Çocuk Scooterı"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":62,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Diğer Oyuncaklar",
+      "Çocuk Puzzle \/ Yapboz"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":63,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Deniz Malzemeleri",
+      "Plaj Oyuncakları",
+      "Spor Oyuncakları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":64,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Figür Oyuncaklar"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":65,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Kutu Oyunları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":66,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Lego & Yapı Oyuncakları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":67,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Onarılmış Çocuk Bisikleti"
+    ],
+    "kdv":0.035
+  },
+  {
+    "no":68,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Oyuncak Bebek ve Aksesuarları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":69,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Bahçe Oyuncakları",
+      "Bebek Oyuncakları (0-2 yaş)",
+      "Bez Bebek",
+      "Et Bebek",
+      "Kumandalı Oyuncaklar",
+      "Oyun Hamurları",
+      "Oyuncak Silah & Su Tabancası",
+      "Peluş Oyuncaklar",
+      "Taşıtlar &",
+      "Öğretici Oyuncak Setleri"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":70,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Pedallı Araçlar"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":71,
+    "ana_kategori":"Çocuk",
+    "kategori":"Oyuncak",
+    "urun_grubu_detayi":[
+      "Şişme Havuz & Aksesuarları"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":72,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Abonelikler"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":73,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Dijital Hediye Kartları (Apple",
+      "Google",
+      "Netflix  ...)"
+    ],
+    "kdv":0.05
+  },
+  {
+    "no":74,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Bein Connect",
+      "D-Smart ...)",
+      "Dijital Yayın Paketleri (Exxen",
+      "S Sport Plus"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":75,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Hizmet Paketleri"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":76,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Papara",
+      "Paycell ...)",
+      "Ön Ödemeli Kartlar (İninal"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":77,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Online Eğitim Uygulamaları"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":78,
+    "ana_kategori":"Dijital Kod & Ürünler",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Cüzdan Kodları",
+      "Oyun İçi Bakiyeler"
+    ],
+    "kdv":0.075
+  },
+  {
+    "no":79,
+    "ana_kategori":"E-Kitap Okuyucu",
+    "kategori":"E-Kitap Okuyucu",
+    "urun_grubu_detayi":[
+      "E-Kitap Okuyucu"
+    ],
+    "kdv":0.095
+  },
+  {
+    "no":80,
+    "ana_kategori":"Elektronik",
+    "kategori":"Beyaz Eşya & TV",
+    "urun_grubu_detayi":[
+      "Ankastre",
+      "Aspiratör",
+      "Davlumbaz",
+      "Fırın",
+      "Mikrodalga Fırın",
+      "Mini & Midi Fırın",
+      "Ocak",
+      "Su Sebili"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":81,
+    "ana_kategori":"Elektronik",
+    "kategori":"Beyaz Eşya & TV",
+    "urun_grubu_detayi":[
+      "Beyaz Eşya Yedek Parça"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":82,
+    "ana_kategori":"Elektronik",
+    "kategori":"Beyaz Eşya & TV",
+    "urun_grubu_detayi":[
+      "Bulaşık Makinesi",
+      "Buzdolabı",
+      "Derin",
+      "Dondurucu",
+      "Kurutma Makinesi",
+      "Çamaşır Makinesi"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":83,
+    "ana_kategori":"Elektronik",
+    "kategori":"Beyaz Eşya & TV",
+    "urun_grubu_detayi":[
+      "Bulaşık Makinesi",
+      "Buzdolabı",
+      "Derin Dondurucu",
+      "Kurutma Makinesi",
+      "Çamaşır Makinesi"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":84,
+    "ana_kategori":"Elektronik",
+    "kategori":"Beyaz Eşya & TV",
+    "urun_grubu_detayi":[
+      "Televizyon"
+    ],
+    "kdv":0.08
+  },
+  {
+    "no":85,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Anakart",
+      "Bellek (RAM)",
+      "Bilgisayar Kasası",
+      "Ekran Kartı",
+      "Harddisk",
+      "Power Supply (PSU)",
+      "SSD (Solid State Drive)",
+      "İşlemci"
+    ],
+    "kdv":0.1
+  },
+  {
+    "no":86,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Bilgisayar Yedek Parça"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":87,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Dizüstü Bilgisayar",
+      "Oyuncu Dizüstü Bilgisayarı"
+    ],
+    "kdv":0.075
+  },
+  {
+    "no":88,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "3D Yazıcı",
+      "Barkod Okuyucu",
+      "Lazer Yazıcı",
+      "Mürekkep Püskürtmeli Yazıcı",
+      "Tanklı Yazıcı",
+      "Tarayıcı"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":89,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "All-in-One Monitor PC",
+      "Masaüstü Bilgisayar",
+      "Mini Masaüstü Bilgisayar",
+      "Oyuncu Masaüstü Bilgisayarı"
+    ],
+    "kdv":0.085
+  },
+  {
+    "no":90,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Monitör",
+      "Oyuncu Monitörü"
+    ],
+    "kdv":0.085
+  },
+  {
+    "no":91,
+    "ana_kategori":"Elektronik",
+    "kategori":"Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Bileşenler Paketi",
+      "Garanti",
+      "Optik Sürücü",
+      "Server Donanımı",
+      "Ses Kartı",
+      "Soğutucu ve Overclock",
+      "TV Kartları",
+      "ve Ek Hizmetler"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":92,
+    "ana_kategori":"Elektronik",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Dijital Destek Kartları"
+    ],
+    "kdv":0.0
+  },
+  {
+    "no":93,
+    "ana_kategori":"Elektronik",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Dijital Kart & Kupon"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":94,
+    "ana_kategori":"Elektronik",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Dijital Üyelik"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":95,
+    "ana_kategori":"Elektronik",
+    "kategori":"Dijital Kod & Ürünler",
+    "urun_grubu_detayi":[
+      "Hizmetler"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":96,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Akıllı Aydınlatma Ürünleri"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":97,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Dik Süpürge",
+      "Robot Süpürge",
+      "Torbasız Süpürge"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":98,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Elektrikli Ev Aletleri Yedek Parça ve Aksesuarları"
+    ],
+    "kdv":0.21
+  },
+  {
+    "no":99,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Espresso & Cappuccino Makinesi",
+      "Fritöz"
+    ],
+    "kdv":0.15
+  },
+  {
+    "no":100,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Hava Temizleme ve Nemlendirme Cihazları"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":101,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Diğer Süpürgeler",
+      "Ütü"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":102,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Halı Yıkama Makineleri"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":103,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Aletleri",
+      "Dikiş Makinesi ve Diğer Elektrikli Ev",
+      "Yiyecek ve İçecek Hazırlama"
+    ],
+    "kdv":0.15
+  },
+  {
+    "no":104,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektrikli Ev Aletleri",
+    "urun_grubu_detayi":[
+      "Dikiş Makinesi ve Diğer Elektrikli Ev Aletleri",
+      "Yiyecek ve İçecek Hazırlama"
+    ],
+    "kdv":0.15
+  },
+  {
+    "no":105,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Akıllı Bileklik Ekran Koruyucu",
+      "Akıllı Bileklik Kordon",
+      "Akıllı Saat Ekran Koruyucu",
+      "Akıllı Saat Kordon",
+      "Kablo Aksesuarları"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":106,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Akıllı Güvenlik Ürünleri",
+      "Akıllı Kamera",
+      "Akıllı Priz"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":107,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Akıllı Takip Cihazları"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":108,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Araç İçi Telefon Tutucu",
+      "Powerbank"
+    ],
+    "kdv":0.185
+  },
+  {
+    "no":109,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Kablo & Adaptör"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":110,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Kamera Lens Koruyucu",
+      "Kulaklık Aksesuarları",
+      "Kulaklık Kılıfı"
+    ],
+    "kdv":0.28
+  },
+  {
+    "no":111,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Kapak & Kılıf"
+    ],
+    "kdv":0.27
+  },
+  {
+    "no":112,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Diğer Yazıcı Sarf Malzemeleri",
+      "Filamentler",
+      "Kartuş",
+      "Kartuş Dolum Seti",
+      "Tonerler",
+      "Yazıcı Mürekkepleri"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":113,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Bilgisayar Hoparlörü",
+      "Bilgisayar Mikrofonları",
+      "Güç Kaynağı & UPS",
+      "Klavye Mouse Set",
+      "Notebook Soğutucu",
+      "Oyuncu Klavye Mouse Set",
+      "Webcam",
+      "Yayıncı Aksesuarları",
+      "Çoklu Depolama Ünitesi"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":114,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Klavye",
+      "Mouse",
+      "Oyuncu Klavyesi",
+      "Oyuncu Kulaklık",
+      "Oyuncu Mouse"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":115,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Konsol Gamepad & Joystick",
+      "Mobil Oyun Aksesuarları",
+      "Nintendo Aksesuarları",
+      "PlayStation Aksesuarları",
+      "Xbox Aksesuarları"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":116,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Monitör Aksesuarları",
+      "Monitör Aparatı",
+      "Monitör Kabloları"
+    ],
+    "kdv":0.21
+  },
+  {
+    "no":117,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Mousepad"
+    ],
+    "kdv":0.145
+  },
+  {
+    "no":118,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Alarm Saatli Radyolar",
+      "Bluetooth Hoparlör",
+      "Kablolu Hoparlör",
+      "MP Player & Ses Kayıt Cihazı",
+      "Mikrofon",
+      "Nostaljik Radyolar"
+    ],
+    "kdv":0.125
+  },
+  {
+    "no":119,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Data Kablosu",
+      "Notebook Adaptörleri",
+      "Notebook Koruyucu",
+      "Notebook Standı",
+      "Notebook Çantası"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":120,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Askı Aparatları",
+      "Kablosuz Ses&Görüntü Aktarıcı",
+      "Projeksiyon",
+      "Projeksiyon Perdesi",
+      "Projeksiyon Sunum Kumandaları"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":121,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Araç Şarj Cihazları",
+      "Kablosuz Şarj Cihazları",
+      "Şarj Adaptörü",
+      "Şarj Aletleri",
+      "Şarj Kablosu"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":122,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Ekran Koruyucu Film",
+      "Selfie Çubuğu",
+      "TV Ekran Temizleme Ürünleri",
+      "Telefon Bataryası",
+      "Telefon Ekranı",
+      "Telefon Kamerası",
+      "Telefon Kasası",
+      "Telefon Tuş Takımı"
+    ],
+    "kdv":0.27
+  },
+  {
+    "no":123,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Güç Kablosu",
+      "Hoparlör Ayakları & Askıları",
+      "Network Kablosu",
+      "Scart Kablolar",
+      "Ses Kabloları"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":124,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Ev Tipi Subwoofer",
+      "Portatif Sistemler",
+      "Receiver Amfiler",
+      "Sinema Sistemi",
+      "Stereo Amfiler"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":125,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Tablet Ekran Koruyucuları",
+      "Tablet Kalemi",
+      "Tablet Kılıfı",
+      "Tablet Standı"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":126,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Taşınabilir Hard Disk",
+      "Taşınabilir SSD"
+    ],
+    "kdv":0.115
+  },
+  {
+    "no":127,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "TV Askı Aparatları",
+      "TV Ekran Koruyucular"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":128,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Hafıza Kartı",
+      "USB"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":129,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Dönüştürücüler",
+      "Dönüştürücüleri",
+      "HDMI Kablo",
+      "Lnbler",
+      "Ses Kablosu",
+      "Switchler",
+      "USB Hub Çoklayıcılar",
+      "Uydu Bölücüler",
+      "Uydu Konnektörleri",
+      "Uydu Santrali",
+      "Uydu Yön Bulucular",
+      "Uzaktan Kumandalar",
+      "Uzatıcı & Çoklayıcılar",
+      "Çanak Antenler",
+      "Çevirici Dönüştürücü"
+    ],
+    "kdv":0.19
+  },
+  {
+    "no":130,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Hard Disk",
+      "Kutuları",
+      "Veri Depolama Aksesuarları",
+      "Yazılabilir CD",
+      "Yazılabilir DVD"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":131,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "4G",
+      "4G Taşınabilir Modem",
+      "ADSL",
+      "Access Point",
+      "Ağ Modem Switchleri",
+      "Elektronik Devre Elemanları",
+      "Menzil Genişletici",
+      "Modem & Router",
+      "Modemler",
+      "Network Aksesuarları",
+      "Powerline Ürünleri",
+      "Routerlar",
+      "VDSL Modemler",
+      "Wireless Adaptör"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":132,
+    "ana_kategori":"Elektronik",
+    "kategori":"Elektronik Aksesuarlar",
+    "urun_grubu_detayi":[
+      "Yazılım Ürünleri"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":133,
+    "ana_kategori":"Elektronik",
+    "kategori":"Foto & Kamera",
+    "urun_grubu_detayi":[
+      "Aynasız Kompakt SLR Makinesi"
+    ],
+    "kdv":0.09
+  },
+  {
+    "no":134,
+    "ana_kategori":"Elektronik",
+    "kategori":"Foto & Kamera",
+    "urun_grubu_detayi":[
+      "Dijital Fotoğraf Makinesi",
+      "SLR Fotoğraf Makinesi",
+      "Video Kamera"
+    ],
+    "kdv":0.125
+  },
+  {
+    "no":135,
+    "ana_kategori":"Elektronik",
+    "kategori":"Foto & Kamera",
+    "urun_grubu_detayi":[
+      "Foto & Kamera Aksesuarları"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":136,
+    "ana_kategori":"Elektronik",
+    "kategori":"Giyilebilir Teknoloji & Kulaklıklar",
+    "urun_grubu_detayi":[
+      "Akıllı Bileklikler",
+      "Akıllı Çocuk Saatleri",
+      "Sanal Gerçeklik Gözlükleri"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":137,
+    "ana_kategori":"Elektronik",
+    "kategori":"Giyilebilir Teknoloji & Kulaklıklar",
+    "urun_grubu_detayi":[
+      "Akıllı Saatler"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":138,
+    "ana_kategori":"Elektronik",
+    "kategori":"Giyilebilir Teknoloji & Kulaklıklar",
+    "urun_grubu_detayi":[
+      "Boyun Bantlı Bluetooth kulaklık",
+      "Kulak Üstü Kablolu Kulaklık",
+      "Kulak İçi Kablolu Kulaklık"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":139,
+    "ana_kategori":"Elektronik",
+    "kategori":"Giyilebilir Teknoloji & Kulaklıklar",
+    "urun_grubu_detayi":[
+      "Kulak içi TWS Bluetooth Kulaklık",
+      "Kulak üstü Bluetooth kulaklık"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":140,
+    "ana_kategori":"Elektronik",
+    "kategori":"Giyilebilir Teknoloji & Kulaklıklar",
+    "urun_grubu_detayi":[
+      "Yenilenmiş Akıllı Saat",
+      "Yenilenmiş Akıllı Çocuk Saati"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":141,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "DVD & Blu - Ray Oynatıcı",
+      "DVR Kayıt Cihazı"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":142,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "Ev Sinema Hoparlörü"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":143,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "Media Player"
+    ],
+    "kdv":0.125
+  },
+  {
+    "no":144,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "Projeksiyon Cihazı",
+      "Projeksiyon Sistemleri",
+      "Soundbar"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":145,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "TV Yedek Parça"
+    ],
+    "kdv":0.21
+  },
+  {
+    "no":146,
+    "ana_kategori":"Elektronik",
+    "kategori":"Görüntü & Ses Sistemleri",
+    "urun_grubu_detayi":[
+      "Uydu Alıcı"
+    ],
+    "kdv":0.17
+  },
+  {
+    "no":147,
+    "ana_kategori":"Elektronik",
+    "kategori":"Kişisel Bakım Aletleri",
+    "urun_grubu_detayi":[
+      "Epilatör",
+      "Tıraş Makinesi"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":148,
+    "ana_kategori":"Elektronik",
+    "kategori":"Kişisel Bakım Aletleri",
+    "urun_grubu_detayi":[
+      "IPL Lazer Epilasyon Aletleri"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":149,
+    "ana_kategori":"Elektronik",
+    "kategori":"Kişisel Bakım Aletleri",
+    "urun_grubu_detayi":[
+      "Kişisel Bakım Yedek Parça"
+    ],
+    "kdv":0.2
+  },
+  {
+    "no":150,
+    "ana_kategori":"Elektronik",
+    "kategori":"Kişisel Bakım Aletleri",
+    "urun_grubu_detayi":[
+      "Maşası",
+      "Saç",
+      "Saç Düzleştirici",
+      "Saç Kurutma Makinesi",
+      "Tartı"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":151,
+    "ana_kategori":"Elektronik",
+    "kategori":"Kişisel Bakım Aletleri",
+    "urun_grubu_detayi":[
+      "Saç Düzleştirici",
+      "Saç Kurutma Makinesi",
+      "Saç Maşası",
+      "Tartı"
+    ],
+    "kdv":0.175
+  },
+  {
+    "no":152,
+    "ana_kategori":"Elektronik",
+    "kategori":"Klima & Isıtıcı",
+    "urun_grubu_detayi":[
+      "Klima"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":153,
+    "ana_kategori":"Elektronik",
+    "kategori":"Klima & Isıtıcı",
+    "urun_grubu_detayi":[
+      "Kombi"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":154,
+    "ana_kategori":"Elektronik",
+    "kategori":"Klima & Isıtıcı",
+    "urun_grubu_detayi":[
+      "Hava Perdeleri",
+      "Isıtıcılar",
+      "Portatif Soğutucu",
+      "Termosifonlar",
+      "Vantilatörler",
+      "Şofbenler"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":155,
+    "ana_kategori":"Elektronik",
+    "kategori":"Oyun & Oyun Konsolları",
+    "urun_grubu_detayi":[
+      "Bilgisayar Oyunları",
+      "Diğer Oyun Konsolları",
+      "Nintendo Oyunları",
+      "PS2 Oyunları",
+      "PS3 Oyunları",
+      "PS4 Oyunları",
+      "PS5 Oyunları",
+      "PSP &",
+      "Teşhir - Konsol Oyunları",
+      "Vita Oyunları",
+      "Xbox Oyunları",
+      "Yenilenmiş",
+      "İkinci El"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":156,
+    "ana_kategori":"Elektronik",
+    "kategori":"Oyun & Oyun Konsolları",
+    "urun_grubu_detayi":[
+      "Dijital Oyun"
+    ],
+    "kdv":0.117
+  },
+  {
+    "no":157,
+    "ana_kategori":"Elektronik",
+    "kategori":"Oyun & Oyun Konsolları",
+    "urun_grubu_detayi":[
+      "Playstation 3",
+      "Teşhir - Oyun Konsolları",
+      "Yenilenmiş",
+      "İkinci El"
+    ],
+    "kdv":0.1725
+  },
+  {
+    "no":158,
+    "ana_kategori":"Elektronik",
+    "kategori":"Oyun & Oyun Konsolları",
+    "urun_grubu_detayi":[
+      "4",
+      "Nintendo Konsolları",
+      "Playstation",
+      "Playstation 5",
+      "Xbox Konsolları"
+    ],
+    "kdv":0.08
+  },
+  {
+    "no":159,
+    "ana_kategori":"Elektronik",
+    "kategori":"Oyun & Oyun Konsolları",
+    "urun_grubu_detayi":[
+      "PSP & Vita Konsolları"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":160,
+    "ana_kategori":"Elektronik",
+    "kategori":"Tablet Grubu",
+    "urun_grubu_detayi":[
+      "Çocuk Çizim Tableti"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":161,
+    "ana_kategori":"Elektronik",
+    "kategori":"Tablet Grubu",
+    "urun_grubu_detayi":[
+      "Grafik Tablet",
+      "Tablet"
+    ],
+    "kdv":0.08
+  },
+  {
+    "no":162,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "Android Cep Telefonları"
+    ],
+    "kdv":0.07
+  },
+  {
+    "no":163,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "İkinci El Cep Telefonları"
+    ],
+    "kdv":0.1
+  },
+  {
+    "no":164,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "IOS Cep Telefonları"
+    ],
+    "kdv":0.07
+  },
+  {
+    "no":165,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "İthalatçı Garantili Telefonlar"
+    ],
+    "kdv":0.075
+  },
+  {
+    "no":166,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "Telsiz\/Masaüstü Telefonları"
+    ],
+    "kdv":0.18
+  },
+  {
+    "no":167,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "Tuşlu Cep Telefonu"
+    ],
+    "kdv":0.1
+  },
+  {
+    "no":168,
+    "ana_kategori":"Elektronik",
+    "kategori":"Telefon",
+    "urun_grubu_detayi":[
+      "Yenilenmiş Cep Telefonu"
+    ],
+    "kdv":0.08
+  },
+  {
+    "no":169,
+    "ana_kategori":"Elektronik",
+    "kategori":"Yenilenmiş Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Bilgisayar",
+      "Yenilenmiş Dizüstü",
+      "Yenilenmiş Oyuncu Dizüstü Bilgisayarı"
+    ],
+    "kdv":0.072
+  },
+  {
+    "no":170,
+    "ana_kategori":"Elektronik",
+    "kategori":"Yenilenmiş Bilgisayar Grubu",
+    "urun_grubu_detayi":[
+      "Yenilenmiş All-in-One Monitor PC",
+      "Yenilenmiş Masaüstü Bilgisayar",
+      "Yenilenmiş Mini Masaüstü Bilgisayar",
+      "Yenilenmiş Oyuncu Masaüstü Bilgisayarı"
+    ],
+    "kdv":0.092
+  },
+  {
+    "no":171,
+    "ana_kategori":"Elektronik",
+    "kategori":"Yenilenmiş Tablet Grubu",
+    "urun_grubu_detayi":[
+      "Yenilenmiş Tablet"
+    ],
+    "kdv":0.071
+  },
+  {
+    "no":172,
+    "ana_kategori":"Ev",
+    "kategori":"Aydınlatma",
+    "urun_grubu_detayi":[
+      "Abajur",
+      "Aplik",
+      "Avize",
+      "Lambader",
+      "Masa ve Gece Lambası"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":173,
+    "ana_kategori":"Ev",
+    "kategori":"Banyo",
+    "urun_grubu_detayi":[
+      "Banyo Aksesuarları"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":174,
+    "ana_kategori":"Ev",
+    "kategori":"Banyo",
+    "urun_grubu_detayi":[
+      "Banyo Tekstili"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":175,
+    "ana_kategori":"Ev",
+    "kategori":"Ev Dekorasyon",
+    "urun_grubu_detayi":[
+      "Sanat Eseri"
+    ],
+    "kdv":0.1119
+  },
+  {
+    "no":176,
+    "ana_kategori":"Ev",
+    "kategori":"Ev Dekorasyon",
+    "urun_grubu_detayi":[
+      "Ayna",
+      "Biblo",
+      "Duvar & Masa Saati",
+      "Duvar Kağıdı",
+      "Duvar Sticker",
+      "Kırlent & Kırlent Kılıfı",
+      "Tablo"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":177,
+    "ana_kategori":"Ev",
+    "kategori":"Ev Gereçleri",
+    "urun_grubu_detayi":[
+      "Çamaşır Gereçleri"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":178,
+    "ana_kategori":"Ev",
+    "kategori":"Ev Gereçleri",
+    "urun_grubu_detayi":[
+      "Ev Gereçleri"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":179,
+    "ana_kategori":"Ev",
+    "kategori":"Ev Tekstili",
+    "urun_grubu_detayi":[
+      "Bebek & Çocuk Ev Tekstili",
+      "Mutfak Tekstili",
+      "Salon Tekstili",
+      "Yatak Odası Tekstili"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":180,
+    "ana_kategori":"Ev",
+    "kategori":"Halı\/Kilim",
+    "urun_grubu_detayi":[
+      "Halı",
+      "Kilim",
+      "Paspas",
+      "Seccade"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":181,
+    "ana_kategori":"Ev",
+    "kategori":"Perde",
+    "urun_grubu_detayi":[
+      "Cibinlik",
+      "Perde",
+      "Perde Aksesuarları"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":182,
+    "ana_kategori":"Ev",
+    "kategori":"Sofra & Mutfak",
+    "urun_grubu_detayi":[
+      "Endüstriyel Mutfak Ekipmanları"
+    ],
+    "kdv":0.1932
+  },
+  {
+    "no":183,
+    "ana_kategori":"Ev",
+    "kategori":"Sofra & Mutfak",
+    "urun_grubu_detayi":[
+      "Mutfak Gereçleri"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":184,
+    "ana_kategori":"Ev",
+    "kategori":"Sofra & Mutfak",
+    "urun_grubu_detayi":[
+      "Pişirme-Hazırlama"
+    ],
+    "kdv":0.1932
+  },
+  {
+    "no":185,
+    "ana_kategori":"Ev",
+    "kategori":"Sofra & Mutfak",
+    "urun_grubu_detayi":[
+      "Sofra Grubu"
+    ],
+    "kdv":0.1932
+  },
+  {
+    "no":186,
+    "ana_kategori":"Giyim",
+    "kategori":"Giyim",
+    "urun_grubu_detayi":[
+      "Spor Giyim"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":187,
+    "ana_kategori":"Giyim",
+    "kategori":"Giyim",
+    "urun_grubu_detayi":[
+      "Alt Giyim",
+      "Dış Giyim",
+      "Mayo",
+      "Çocuk",
+      "Üst Giyim",
+      "İç Giyim"
+    ],
+    "kdv":0.2136
+  },
+  {
+    "no":188,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Çakmaklar",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":189,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Drone",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":190,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Drone Aksesuarı",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":191,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Film",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":192,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Hobi Malzemeleri",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":193,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Müzik Alet ve Ekipmanları, Müzik Albümü",
+    "urun_grubu_detayi":[
+      "Diğer Müzik Alet ve Ekipmanları",
+      "Müzik Albümü"
+    ],
+    "kdv":0.1424
+  },
+  {
+    "no":194,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Müzik Alet ve Ekipmanları, Müzik Albümü",
+    "urun_grubu_detayi":[
+      "Amfi",
+      "Bateri",
+      "Bağlama",
+      "DJ Urunleri",
+      "Gitar",
+      "Kayıt Teknolojileri",
+      "Keman",
+      "Klarnet",
+      "Mikrofon ve Aksesuarlar",
+      "Org",
+      "Piyano",
+      "Plak",
+      "Plak",
+      "Stüdyo Kulaklık"
+    ],
+    "kdv":0.1424
+  },
+  {
+    "no":195,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Parti ve Yılbaşı Ürünleri",
+    "urun_grubu_detayi":[
+      "Diğer Parti Ürünleri",
+      "Düğün & Kına & Nikah",
+      "Led Işık"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":196,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Parti ve Yılbaşı Ürünleri",
+    "urun_grubu_detayi":[
+      "Diğer Yılbaşı Ürünleri",
+      "Süsleri",
+      "Yılbaşı",
+      "Yılbaşı Ağacı"
+    ],
+    "kdv":0.2034
+  },
+  {
+    "no":197,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Pikap & Gramofon",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.1424
+  },
+  {
+    "no":198,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"RC Araç ve Aksesuarlar",
+    "urun_grubu_detayi":[
+
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":199,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Yetişkin Hobi ve Oyun",
+    "urun_grubu_detayi":[
+      "Diğer Yetişkin Hobi ve Oyun"
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":200,
+    "ana_kategori":"Hobi & Eğlence",
+    "kategori":"Yetişkin Hobi ve Oyun",
+    "urun_grubu_detayi":[
+      "Hediyelik Ürün",
+      "Oyun Grupları"
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":201,
+    "ana_kategori":"Kitap",
+    "kategori":"E-Kitap",
+    "urun_grubu_detayi":[
+      "E-Kitap Akseuarları"
+    ],
+    "kdv":0.22
+  },
+  {
+    "no":202,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Aktivite Eğitici Kitaplar"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":203,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Dergi ve Gazete",
+      "Çizgi Roman"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":204,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Çocuk ve Ebeveyn Kitapları"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":205,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Diğer Kitaplar"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":206,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Din Kitabı"
+    ],
+    "kdv":0.1322
+  },
+  {
+    "no":207,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Eğitim Kitapları"
+    ],
+    "kdv":0.1322
+  },
+  {
+    "no":208,
+    "ana_kategori":"Kitap",
+    "kategori":"Kitap",
+    "urun_grubu_detayi":[
+      "Kişisel Gelişim Kitapları",
+      "Roman"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":209,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Boya Malzemeleri, Sanatsal\nMalzemeler, Sanatsal Kağıtlar & Kalemler",
+    "urun_grubu_detayi":[
+      "Akrilik Boya",
+      "Boya Malzemeleri",
+      "Kağıtlar & Kalemler",
+      "Sanatsal",
+      "Tuval"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":210,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Dosyalama \/ Arşivleme, Ofis Sarf Tüketim Malzemeleri, Diğer Kırtasiye Malzemeleri",
+    "urun_grubu_detayi":[
+      "Bant & Bant Makinesi",
+      "Diğer",
+      "Diğer Kırtasiye Malzemeleri",
+      "Dosyalar",
+      "Etiketler",
+      "Fosforlu Kalemler",
+      "Hesap Makinesi",
+      "Kalemler",
+      "Keçeli Kalemler",
+      "Klasörler",
+      "Kurşun Kalemler",
+      "Kırtasiye Seti",
+      "Suluk & Matara",
+      "Teknik Çizim Kalemi",
+      "Tükenmez Kalemler",
+      "Uçlu Kalem",
+      "Yazı Tahtası"
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":211,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Fotokopi ve Baskı Kağıtları",
+    "urun_grubu_detayi":[
+      "Fotokopi ve Baskı Kağıtları"
+    ],
+    "kdv":0.085
+  },
+  {
+    "no":212,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Kırtasiye Kağıt Ürünleri",
+    "urun_grubu_detayi":[
+      "Ajanda",
+      "Defterler"
+    ],
+    "kdv":0.1322
+  },
+  {
+    "no":213,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Kırtasiye Kağıt Ürünleri",
+    "urun_grubu_detayi":[
+      "Diğer Kırtasiye Kağıt Ürünleri"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":214,
+    "ana_kategori":"Kırtasiye & Ofis Malzemeleri",
+    "kategori":"Ofis Teknolojileri",
+    "urun_grubu_detayi":[
+      "Ofis Makinesi ve",
+      "Piller & Şarj Cihazları",
+      "Yazarkasa"
+    ],
+    "kdv":0.1373
+  },
+  {
+    "no":215,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Ağda ve Epilasyon"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":216,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Ağız Bakım"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":217,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Ayak Bakımı",
+      "Banyo & Duş Ürünleri",
+      "El &",
+      "Kolonya",
+      "Tırnak Bakımı",
+      "Vücut Spreyi"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":218,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Diş Macunu"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":219,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Günlük Ped",
+      "Hijyenik Ped"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":220,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Islak Tıraş"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":221,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Kadın Hijyen"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":222,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Saç Bakım"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":223,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Şarj Edebilir Diş Fırçası\/Pilli Diş Fırçası ve Başlıkları"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":224,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kişisel Bakım",
+    "urun_grubu_detayi":[
+      "Tıraş Bıçağı"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":225,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kozmetik",
+    "urun_grubu_detayi":[
+      "Cilt Bakım"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":226,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kozmetik",
+    "urun_grubu_detayi":[
+      "Makyaj"
+    ],
+    "kdv":0.1678
+  },
+  {
+    "no":227,
+    "ana_kategori":"Kozmetik & Kişisel Bakım",
+    "kategori":"Kozmetik",
+    "urun_grubu_detayi":[
+      "Parfüm ve Deodorant"
+    ],
+    "kdv":0.1627
+  },
+  {
+    "no":228,
+    "ana_kategori":"Mobilya",
+    "kategori":"Bahçe & Balkon Mobilyası",
+    "urun_grubu_detayi":[
+      "Armut Koltuk",
+      "Bahçe Dolabı",
+      "Bahçe Koruma",
+      "Bahçe Masası",
+      "Bahçe Minderi",
+      "Bahçe Sandalyesi",
+      "Saksılık",
+      "Salıncak & Hamak",
+      "Örtüsü",
+      "Şemsiye & Tente",
+      "Şezlong"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":229,
+    "ana_kategori":"Mobilya",
+    "kategori":"Bebek & Çocuk Odası Mobilyası",
+    "urun_grubu_detayi":[
+      "Arabalı Yatak",
+      "Bebek Odası",
+      "Ranza",
+      "Sandalye & Koltuk",
+      "Çocuk & Montessori Kitaplık"
+    ],
+    "kdv":0.185
+  },
+  {
+    "no":230,
+    "ana_kategori":"Mobilya",
+    "kategori":"Bebek & Çocuk Odası Mobilyası",
+    "urun_grubu_detayi":[
+      "Bebek & Çocuk Yatak",
+      "Beşik",
+      "Montessori Çocuk Odası",
+      "Oyun & Aktivite Masası",
+      "Oyuncak Dolabı",
+      "Çocuk & Montessori Karyola",
+      "Çocuk Dolap & Gardırop",
+      "Çocuk Hamakları",
+      "Çocuk Komodin & Şifonyer",
+      "Çocuk Çalışma Masası",
+      "Çocuk Çalışma Sandalyesi",
+      "Öğrenme Kulesi"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":231,
+    "ana_kategori":"Mobilya",
+    "kategori":"Mutfak & Banyo Mobilyası",
+    "urun_grubu_detayi":[
+      "Banyo Dolabı",
+      "Hazır Mutfak Dolapları",
+      "Mutfak Masaları",
+      "Mutfak Rafları",
+      "Mutfak Sandalyeleri",
+      "Tabureler",
+      "Çok Amaçlı Dolaplar"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":232,
+    "ana_kategori":"Mobilya",
+    "kategori":"Ofis Mobilyaları",
+    "urun_grubu_detayi":[
+      "Duvar Rafı",
+      "Keson",
+      "Kitaplık",
+      "Laptop Sehpası",
+      "Ofis",
+      "Ofis Dolapları",
+      "Ofis Koltukları ve Kanepeleri",
+      "Ofis Masaları",
+      "Sehpası",
+      "Çalışma Masası",
+      "Çalışma Sandalyesi"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":233,
+    "ana_kategori":"Mobilya",
+    "kategori":"Ofis Mobilyaları",
+    "urun_grubu_detayi":[
+      "Oyuncu Koltuğu",
+      "Oyuncu Masası"
+    ],
+    "kdv":0.185
+  },
+  {
+    "no":234,
+    "ana_kategori":"Mobilya",
+    "kategori":"Salon Mobilyası",
+    "urun_grubu_detayi":[
+      "Ayakkabılık",
+      "Berjer",
+      "Dergilik & Gazetelikler",
+      "Dresuar",
+      "Konsol",
+      "Orta Sehpa",
+      "Portmanto",
+      "Portmanto Askılık",
+      "Puf & Bench",
+      "TV Koltuğu",
+      "TV Sehpaları & Üniteleri",
+      "Vitrin & Gümüşlük",
+      "Yan Sehpa",
+      "Yemek Masası",
+      "Yemek Odası Sandalyesi",
+      "Zigon",
+      "Şaraplık"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":235,
+    "ana_kategori":"Mobilya",
+    "kategori":"Takım Mobilyalar",
+    "urun_grubu_detayi":[
+      "Bahçe Takımları",
+      "Bebek Odası Takımı",
+      "Genç Odası Takımı",
+      "Kanepe",
+      "Koltuk Takımları",
+      "Koltuk Takımı",
+      "Köşe Takımı",
+      "Mutfak Adası",
+      "Mutfak Masası Takımları",
+      "Ofis",
+      "Takımları",
+      "Yatak Odası Takımı",
+      "Yemek Odası Takımı",
+      "Çay Seti",
+      "Çocuk & Genç Odası Takımı",
+      "Çocuk Odası Takımı",
+      "Şark Köşesi"
+    ],
+    "kdv":0.185
+  },
+  {
+    "no":236,
+    "ana_kategori":"Mobilya",
+    "kategori":"Yatak Odası Mobilyası",
+    "urun_grubu_detayi":[
+      "Baza"
+    ],
+    "kdv":0.185
+  },
+  {
+    "no":237,
+    "ana_kategori":"Mobilya",
+    "kategori":"Yatak Odası Mobilyası",
+    "urun_grubu_detayi":[
+      "\/ Baza Başlığı",
+      "Askılık",
+      "Bez Dolaplar",
+      "Dolap ve Gardırop",
+      "Dolapları",
+      "Karyola",
+      "Komodin",
+      "Makyaj Masası & Tuvalet Masası",
+      "Sandıklar",
+      "Takı ve Aksesuar",
+      "Yatak",
+      "Yatak",
+      "Yatak Pedi & Şiltesi",
+      "Şifonyer"
+    ],
+    "kdv":0.205
+  },
+  {
+    "no":238,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Akü ve Akü Takviye Kabloları",
+    "urun_grubu_detayi":[
+      "Akü ve Akü Takviye Kabloları"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":239,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Elektrikli Motosiklet",
+    "urun_grubu_detayi":[
+      "Elektrikli Motosiklet"
+    ],
+    "kdv":0.085
+  },
+  {
+    "no":240,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Jantlar& Jant Kapakları",
+    "urun_grubu_detayi":[
+      "Jant",
+      "Jant Kapakları"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":241,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Motor Bakım Ürünleri",
+    "urun_grubu_detayi":[
+      "Motor Bakım Ürünleri"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":242,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Motosiklet Aksesuarları, Motosiklet Koruma Ekipmanları, Motosiklet Bakım, Motosiklet Ekipmanları, Motosiklet Giyim",
+    "urun_grubu_detayi":[
+      "Giyim",
+      "Motosiklet",
+      "Motosiklet Aksesuarları",
+      "Motosiklet Bakım",
+      "Motosiklet Ekipmanları",
+      "Motosiklet Koruma Ekipmanları"
+    ],
+    "kdv":0.15
+  },
+  {
+    "no":243,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Motosiklet Çanta ve Kasklar",
+    "urun_grubu_detayi":[
+      "Motorcu Sırt Çantaları"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":244,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Motosiklet Çanta ve Kasklar",
+    "urun_grubu_detayi":[
+      "Motosiklet Kaskları",
+      "Motosiklet Çantaları"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":245,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Motosiklet Yedek Parça",
+    "urun_grubu_detayi":[
+      "Motosiklet Yedek Parça"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":246,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto Aksesuar",
+    "urun_grubu_detayi":[
+      "Oto Aksesuar"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":247,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto Aksesuar",
+    "urun_grubu_detayi":[
+      "Oto Branda"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":248,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto Bakım \/ Temizlik Ürünleri, Lastik Bakım Ürünleri",
+    "urun_grubu_detayi":[
+      "Lastik Bakım Ürünleri",
+      "Oto Bakım \/ Temizlik Ürünleri"
+    ],
+    "kdv":0.165
+  },
+  {
+    "no":249,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto Ses Görüntü Sistemleri",
+    "urun_grubu_detayi":[
+      "Oto Ses Görüntü Sistemleri"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":250,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto ve Motosiklet Lastikleri",
+    "urun_grubu_detayi":[
+      "Motosiklet Lastikleri"
+    ],
+    "kdv":0.11
+  },
+  {
+    "no":251,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Oto ve Motosiklet Lastikleri",
+    "urun_grubu_detayi":[
+      "Oto Lastikleri"
+    ],
+    "kdv":0.095
+  },
+  {
+    "no":252,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Otomobil Yedek Parça & Oto Krom Aksesuar",
+    "urun_grubu_detayi":[
+      "Otomobil Yedek Parça & Oto Krom Aksesuar"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":253,
+    "ana_kategori":"Otomobil & Motosiklet",
+    "kategori":"Yağ ve Motor Katkıları",
+    "urun_grubu_detayi":[
+      "Yakıt Tasarruf Ürünleri",
+      "Yağ ve Motor Katkıları"
+    ],
+    "kdv":0.14
+  },
+  {
+    "no":254,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Aksiyon Kamera Aksesuarları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":255,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Aksiyon Kameraları"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":256,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Avcılık & Balıkçılık"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":257,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Diğer",
+      "Kamp Mutfağı",
+      "Kamp Ürünleri",
+      "Soğutucu - Buzluk",
+      "Çadır",
+      "Şişme Yataklar - Koltuklar"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":258,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Diğer Outdoor Ekipman ve Aksesuarları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":259,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Dürbün",
+      "GPS Cihazları",
+      "Lazerler",
+      "Teleskop"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":260,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Kamp Masa&Sandalye Seti",
+      "Kamp Masası",
+      "Kamp Sandalyesi"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":261,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Kamp Matarası",
+      "Mug"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":262,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Tekne & Yat Ekipmanları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":263,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Tekne Motorları"
+    ],
+    "kdv":0.1
+  },
+  {
+    "no":264,
+    "ana_kategori":"Spor",
+    "kategori":"Outdoor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Termos"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":265,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Bisiklet"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":266,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Bisiklet Aksesuarları",
+      "Elektrikli Bisiklet Aksesuarları",
+      "Elektrikli Scooter Aksesuarları",
+      "Kaykay Aksesuarları",
+      "Scooter Akseuarları"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":267,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Branş Sporları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":268,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Dambıl ve Ağırlıklar"
+    ],
+    "kdv":0.135
+  },
+  {
+    "no":269,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Diğer Spor Aksesuarları"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":270,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Elektrikli Bisiklet",
+      "Elektrikli Scooter",
+      "Hoverboard"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":271,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Kondisyon Bisikleti",
+      "Kondisyon Küreği",
+      "Koşu Bandı",
+      "Mekik Aleti",
+      "Mekik Sehpası",
+      "Çalışma İstasyonları"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":272,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Buz Pateni",
+      "Kaykay",
+      "Paten",
+      "Scooter"
+    ],
+    "kdv":0.13
+  },
+  {
+    "no":273,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Pilates & Yoga"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":274,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Havuz",
+      "Kano",
+      "Şişme Bot"
+    ],
+    "kdv":0.12
+  },
+  {
+    "no":275,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Kayak Takımı",
+      "Kızak",
+      "Kış Sporları",
+      "Snowboard"
+    ],
+    "kdv":0.155
+  },
+  {
+    "no":276,
+    "ana_kategori":"Spor",
+    "kategori":"Spor Ekipmanları",
+    "urun_grubu_detayi":[
+      "Dalış Aksesuarları",
+      "Yüzme Malzemeleri",
+      "Yüzücü Aksesuarları"
+    ],
+    "kdv":0.16
+  },
+  {
+    "no":277,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Anne Bakım",
+    "urun_grubu_detayi":[
+      "Göğüs Pedleri \/ Koruyucular",
+      "Göğüs Ucu Kremi",
+      "Kremleri",
+      "Vücut"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":278,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Bakım Örtüsü"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":279,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Bakım Seti"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":280,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Bakım ve Kozmetik",
+      "Bebek Sağlık Ürünleri",
+      "Diğer Bebek Bakım",
+      "Ürünleri"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":281,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Bezi"
+    ],
+    "kdv":0.1119
+  },
+  {
+    "no":282,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Güneş Kremi"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":283,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Islak Mendil \/ Havlu"
+    ],
+    "kdv":0.1119
+  },
+  {
+    "no":284,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Kremi ve Yağı"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":285,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Bakım",
+    "urun_grubu_detayi":[
+      "Bebek Şampuanı"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":286,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Beslenme",
+    "urun_grubu_detayi":[
+      "Bebek Ek Besin",
+      "Bebek Maması",
+      "Süt Arttırıcı",
+      "İçecekler"
+    ],
+    "kdv":0.1424
+  },
+  {
+    "no":287,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Bebek Beslenme",
+    "urun_grubu_detayi":[
+      "Bebek Sütü",
+      "Devam Sütü"
+    ],
+    "kdv":0.1424
+  },
+  {
+    "no":288,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Bebek Deterjanı"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":289,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Bulaşık Makinesi Deterjanı"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":290,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Bulaşık Yıkama"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":291,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Çamaşır Deterjanı"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":292,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Çamaşır Yıkama Yan Ürünleri"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":293,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Elde Bulaşık Deterjanı"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":294,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Ev ve Temizlik Gereçleri"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":295,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Islak Mendil"
+    ],
+    "kdv":0.1119
+  },
+  {
+    "no":296,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Kağıt Havlu"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":297,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Kağıt Peçete",
+      "Mendil"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":298,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Paspas ve Mop"
+    ],
+    "kdv":0.1322
+  },
+  {
+    "no":299,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Temizlik Ürünleri"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":300,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Ev Bakım ve Temizlik",
+    "urun_grubu_detayi":[
+      "Tuvalet Kağıdı"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":301,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Atıştırmalık",
+      "Kuru Gıda",
+      "Süt ve Kahvaltılık"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":302,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Bardak Poşet Çay"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":303,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Sıcak Çikolata",
+      "Çikolata"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":304,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Demlik Poşet Çay"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":305,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Diğer Gıda Ürünleri"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":306,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Dökme Çay"
+    ],
+    "kdv":0.0814
+  },
+  {
+    "no":307,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Enerji İçeceği"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":308,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Filtre ve Çekirdek Kahve"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":309,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Granül Kahve"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":310,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Gurme & Organik Ürünler"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":311,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Hazır Noodle"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":312,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Helva"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":313,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Kapsül Kahve"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":314,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Krem Çikolata ve Ezme"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":315,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Küvertür",
+      "Pul Çikolata"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":316,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Özel Ezme"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":317,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Peynir"
+    ],
+    "kdv":0.0814
+  },
+  {
+    "no":318,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Polen ve Propolis"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":319,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Sıvı Yağ"
+    ],
+    "kdv":0.0814
+  },
+  {
+    "no":320,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Sürülebilir Çikolata"
+    ],
+    "kdv":0.122
+  },
+  {
+    "no":321,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Tahin"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":322,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Ton Balığı"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":323,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Türk Kahvesi"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":324,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Gıda & İçecek",
+    "urun_grubu_detayi":[
+      "Zeytinyağı"
+    ],
+    "kdv":0.1017
+  },
+  {
+    "no":325,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Pet Shop",
+    "urun_grubu_detayi":[
+      "Diğer Petshop ürünleri"
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":326,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Pet Shop",
+    "urun_grubu_detayi":[
+      "Kedi Konserve Maması"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":327,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Pet Shop",
+    "urun_grubu_detayi":[
+      "Kedi Kumu"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":328,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Pet Shop",
+    "urun_grubu_detayi":[
+      "Kedi Kuru Mama ve Köpek Kuru\/Koserve Mamaları"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":329,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Pet Shop",
+    "urun_grubu_detayi":[
+      "Kedi Vitamini"
+    ],
+    "kdv":0.1831
+  },
+  {
+    "no":330,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Cinsel Sağlık"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":331,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Genel Sağlık"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":332,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Gıda Takviyesi ve Vitamin"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":333,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Hasta Bezi ve Temizlik"
+    ],
+    "kdv":0.1729
+  },
+  {
+    "no":334,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Medikal Maske"
+    ],
+    "kdv":0.1525
+  },
+  {
+    "no":335,
+    "ana_kategori":"Süpermarket",
+    "kategori":"Sağlık",
+    "urun_grubu_detayi":[
+      "Sporcu Besini & Supplementler"
+    ],
+    "kdv":0.1729
+  }
+]
