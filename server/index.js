@@ -1,19 +1,21 @@
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 5000;
 const fs = require('fs');
-const path = require('path');
 
-// CORS configuration
+// CORS ayarları (sadece API için, build serve edilirken gerek yok)
 const corsOptions = {
   origin: process.env.FRONTEND_URL || 'http://localhost:3000',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 };
-
 app.use(cors(corsOptions));
 app.use(express.json());
+
+// React build klasörünü serve et
+app.use(express.static(path.join(__dirname, '../client/build')));
 
 // Platform listesi (statik olarak ekliyorum, ileride dinamik yapılabilir)
 const platforms = [
@@ -383,6 +385,11 @@ app.get('/api/n11/cargo', (req, res) => {
   const minFiyat = Math.min(...results.map(r => r.fiyat));
   const enUygun = results.find(r => r.fiyat === minFiyat);
   res.json({ tumu: results, enUygun });
+});
+
+// Diğer tüm isteklerde React index.html'i döndür
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/build', 'index.html'));
 });
 
 app.listen(PORT, () => {
